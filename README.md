@@ -44,4 +44,7 @@ Estos requerimientos definen las funcionalidades básicas que deben ser implemen
 # Ver planificación 
 [Ver Aquí](https://trello.com/b/Reu2lY8S/backlog)
 
+![alt text](image.png)
+
+
 
